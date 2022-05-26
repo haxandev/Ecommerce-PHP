@@ -35,5 +35,3 @@ Password: MyNewPass<br>
 Name: ecommerce
 
 
-## Credits
-The original project can be found on [SmartShop](https://github.com/smakosh/Smartshop).
